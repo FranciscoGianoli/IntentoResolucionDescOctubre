@@ -1,0 +1,2 @@
+# IntentoResolucionDescOctubre
+Created with CodeSandbox
